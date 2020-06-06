@@ -1,0 +1,7 @@
+[package]
+name = "lfuda"
+version = "0.1.0"
+authors = ["Roman Beltyukov <maybe.hello.world@gmail.com>"]
+edition = "2018"
+description = "Least Frequently Used with Dynamic Aging cache with Time To Live and weight for each element."
+license = "MIT"
